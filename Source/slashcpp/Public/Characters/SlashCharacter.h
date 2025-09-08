@@ -47,7 +47,7 @@ public:
 	virtual void AddGold(ATreasure* Treasure) override;
 
 	//this is just trash line for test git hub pull and push
-
+	//this is just trash line for the second time for test git hub pull and push
 
 
 protected:
