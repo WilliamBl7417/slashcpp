@@ -46,6 +46,8 @@ public:
 	virtual void AddSouls(ASoul* soul) override;
 	virtual void AddGold(ATreasure* Treasure) override;
 
+	//this is just trash line for test git hub pull and push
+
 
 
 protected:
